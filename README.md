@@ -10,4 +10,5 @@ My favorite hobbies are playing video games and watching anime.
 #Contact <br/>
 If you need to reach me, feel free to using these platforms: 
 Gmail: juaquins2005@gmail.com
-Discord: uwuchanv.2 
+Discord: uwuchanv.2 <br/>
+Feel free to contact me for various reasons (projects, collaberation, opportunities, etc.) 
