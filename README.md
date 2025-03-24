@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 
+
+My name is Juaquin Sanchez, and I am currently a student at University of New Mexico. 
+I am studying a BS in Astrophysics, with a planned graduation date of May 2027. 
+My birthday is July 24th, 2005. 
+My favorite hobbies are playing video games and watching anime. 
+
 
 <!--
 **UwULeader/UwULeader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
